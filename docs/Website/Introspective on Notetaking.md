@@ -1,1 +1,0 @@
-This project as sort of reminded me that I am not much of an 'atomic' notetaker, in the sense of jotting small things down as I read through something. As I have found I work best by reading and then digesting over night, as such I am much more prone to longer thoughts on what I have read.

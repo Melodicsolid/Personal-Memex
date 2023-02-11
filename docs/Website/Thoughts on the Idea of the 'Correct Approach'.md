@@ -1,1 +1,0 @@
-In my experience, most attempts at discovering and implementing a single correct approach leads to difficulties, misunderstandings and pigeonholing. To be fair I am in the social sciences which due to less than pleasant history have an institutional lack of trust towards universalisms.
