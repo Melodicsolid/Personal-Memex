@@ -1,1 +1,0 @@
-While writing my summary for [[@Bush1945]] I noticed that the idea of the memex is conceptually similar to the modern digital library database as discussed in [[@kumar2013]].
