@@ -1,0 +1,2 @@
+As an anthropology major I feel that the term developed reinforces the unfortunately widespread First World/Third World dichotomy that many people in what is referred to as the 'West' have.
+This prompted me towards further thoughts about the [[Origins and use of the Terms 'First World' and 'Third World']].
