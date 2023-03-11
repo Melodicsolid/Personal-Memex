@@ -7,3 +7,4 @@ The main takeaway I got from this was that the current way that people interact 
 LINKS
 [[Thoughts on the Idea of the 'Correct Approach']]
 [[Wikipedia]]
+[[Thoughts on the Internet as a Web]]
