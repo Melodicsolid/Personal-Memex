@@ -6,5 +6,7 @@ There’s about 31,000 active wikipedians that hold English Wikipedia together. 
 
 We should be ashamed. We really should." I really like how the author uses Wikipedia and Facebook to highlight the difference of attention between the 'Garden' and the 'Stream'
 
+[[The Modem World and the Garden]]
+
 Citation Information
 mikecaulfield. “The Garden and the Stream: A Technopastoral.” Hapgood (blog), October 17, 2015. https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/.
