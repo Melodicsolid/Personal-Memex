@@ -1,0 +1,3 @@
+The lecture by [[@MacDougall2014]] shows that from their very inception video games were made by adults and for adults. Meaning that the false perception that video games are only for kids that has negatively impacted the growth of the medium must have come later. Might be worth researching where this perception arose from.
+[[The Idea that Video Games are only for Kids]]
+[[Freemium and Microtransactions]]

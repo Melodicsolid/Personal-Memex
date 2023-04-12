@@ -1,0 +1,1 @@
+Before these readings I had never heard of gutta-percha before, but I noticed that general attitudes regarding potential gutta-percha depletion in the 19th century mirror general attitudes regarding oil depletion now. Which is to say that people actively avoid considering the possiblity.
