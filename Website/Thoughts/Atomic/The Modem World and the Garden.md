@@ -1,2 +1,0 @@
-The ideas in the article by [[@Driscoll2022]] about rekindling the wonder of the pre-web internet and bringing back the personalization and experimentation echoes the idea of including the 'garden' rather than just the 'stream' as put forth by [[@Caulfield2015]]. It also echoes the old dream of the personal memex as thought up by [[@Bush1945]]
-[[Similarities Between the Memex Concept and Modern Library Databases]]

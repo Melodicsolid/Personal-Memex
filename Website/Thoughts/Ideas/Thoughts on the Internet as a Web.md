@@ -1,4 +1,0 @@
-Having given it some further thought I feel like the modern Internet is less of a web and more of a circulatory system which constantly pumps people through it. We travel through the system until we find where we are going and then help to energize the place we end up through visitor traffic and/or ad revenue thus keeping that part of the Internet healthy and active. While any place that does not get enough visitor traffic and/or ad revenue eventually withers and dies as it becomes unable to sustain itself.
-
-While things like our Personal Memex or Wikipedia are more like a web in that each node is connected to several other nodes which allow one to travel through the web via connecting lines.
-[[The First Web]]
