@@ -1,0 +1,9 @@
+“11.2 The Evolution of the Internet – Understanding Media and Culture.” Accessed April  12, 2023. [https://open.lib.umn.edu/mediaandculture/chapter/11-2-the-evolution-of-the-internet/](https://open.lib.umn.edu/mediaandculture/chapter/11-2-the-evolution-of-the-internet/).
+
+SUMMARY
+This learning packet discusses the history of the internet from the Cold War to the Social Media era with a focus on the decentralized nature of the internet as well as how rules or 'protocols' shape how we engage with the internet. The packet discusses how decentralization was built into the early internet due to Cold War fears of nuclear war as the previous American communications system of a single hub with many connections was vulnerable to a strike destroying said hub. While the decentralized system used by the internet allowed for message transmission even if parts of the network were destroyed as the messages had multiple paths to their destination. What makes this decentralized system work is a set of standardized protocols programmed into the system governing how and in what ways networked computers communicate. The other thing I got out of this course packet is that the majority of digital business models require a diversified group of income sources lest they hemorrhage money. This is one of the things driving the proliferation of business models like the freemium model in which one can use the service for free but without paying one only has access to the barest of minimums, as well as the microtransaction model which is more common in video games. The microtransactio model is one in which the game is generally entirely free but has an ingame store where one can spend generally small amounts of money in order to acquire cosmetics or in some games for convenience enabling items such as quicker completion of tasks.
+
+LINKS
+[[Freemium and Microtransactions]]
+[[The Idea that Video Games are only for Kids]]
+[[Debunking The Video Games are for Kids Myth]]

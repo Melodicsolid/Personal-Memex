@@ -1,0 +1,7 @@
+Edwards, Benj. 2022 “My Secret Life as an 11-Year-Old BBS Sysop | Ars Technica.” Accessed April 12, 2023. [https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/).
+
+SUMMARY
+This article consists of the author reminiscing about his experiences with the early internet. He discusses how his brother first got interested in the world of the early internet and spread that interest to him. The author spent much of his free time during this time frame visiting various local BBSes during which he befriended another young internet user. This constant browsing of BBSes eventually sparked an interest in making his own BBS. With the help of an expert he met on another BBS the author eventually constructed his own BBS and became his area's youngest sysop (system operator) which led to jealousy from the previous record holder who he thought he had befriended. This led to his BBS being hacked, but not deterred the author remade it in a more secure fashion and ran it for around 5 more years. The author ends his recollection by discussing how he eventually ended up remaking the BBS in a form that is more friendly to the modern internet and has been running it since thus meaning that the new one has run for longer than the original.
+
+LINKS
+[[Trolling was there in the beginning]]
