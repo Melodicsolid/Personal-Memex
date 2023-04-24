@@ -52,3 +52,7 @@ Ideas
 [[The Sudden Importance of Previously Unremarkable Land]]
 [[Thoughts on the Internet as a Web]]
 [[Trolling was there in the beginning]]
+
+Final Journey
+[[0_Final Journey_1]]
+[[0_Final Journey_2]]
